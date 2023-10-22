@@ -28,10 +28,10 @@
 
 ## Projects
 
-#### **Image Caption Generation **
+### Image Caption Generation
 **Tools & Tech:** Research advancement, Python, deep learning, computer vision 
 
-#### **Facebook to Meta**
+### Facebook to Meta
 **Tools & Tech:** Research, Artifical Intelligence
 
 ## Experience
