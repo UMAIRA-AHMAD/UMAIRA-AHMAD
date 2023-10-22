@@ -1,6 +1,6 @@
 # Umaira Ahmad Sial
 ##### umairaahmed2001@gmail.com
-# Personal Information 
+## Personal Information 
 **Gender:** Female
 
 **Date of Birth:** July 04,2001
