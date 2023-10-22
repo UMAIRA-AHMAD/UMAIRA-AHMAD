@@ -9,12 +9,12 @@
 
 **Address:** Tauheed Town, Sialkot
 
-# About me
+## About me
 
 "I dream of becoming a data scientist. I find the mix of statistics and computer science fascinating, and I'm genuinely passionate about it. Always eager to dive deeper into the world of data, I am driven by a relentless curiosity to uncover meaningful insights and turn data into actionable knowledge."
 
 
-# Education
+## Education
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-# Projects
+## Projects
 
 #### Image Caption Generation 
 **Tools & Tech:** Research advancement, Python, deep learning, computer vision 
