@@ -1,0 +1,90 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "0f5da05b",
+   "metadata": {},
+   "source": [
+    "# Umaira Ahmad Sial\n",
+    "##### umairaahmed2001@gmail.com\n",
+    "# Personal Information \n",
+    "**Gender:** Female\n",
+    "\n",
+    "**Date of Birth:** July 04,2001\n",
+    "\n",
+    "**Phone No:** 03001234567\n",
+    "\n",
+    "**Address:** Tauheed Town, Sialkot\n",
+    "\n",
+    "# About me\n",
+    "\n",
+    "\"I dream of becoming a data scientist. I find the mix of statistics and computer science fascinating, and I'm genuinely passionate about it. Always eager to dive deeper into the world of data, I am driven by a relentless curiosity to uncover meaningful insights and turn data into actionable knowledge.\"\n",
+    "\n",
+    "\n",
+    "# Education\n",
+    "\n",
+    "\n",
+    "\n",
+    "| Institute Name  |         Degree         |   Year    |\n",
+    "|-----------------|------------------------|---------- |\n",
+    "| PUCIT           | Mphil in Data Science  | 2023-cont |\n",
+    "| GCWUS           | BS in Computer science | 2019-2023 |\n",
+    "| Superior College| ICS(stat)              | 2017-2019 |\n",
+    "\n",
+    "\n",
+    "\n",
+    "# Projects\n",
+    "\n",
+    "#### Image Caption Generation \n",
+    "**Tools & Tech:** Research advancement, Python, deep learning, computer vision \n",
+    "\n",
+    "#### Facebook to Meta\n",
+    "**Tools & Tech:** Research, Artifical Intelligence\n",
+    "\n",
+    "## Experience\n",
+    "\n",
+    "-As a recent graduate, the majority of my experiences are related to projects during the learning phase.\n",
+    "-Worked on several research projects.\n",
+    "-Oversaw project teams and project-related files across multiple projects.\n",
+    "\n",
+    "## Skills\n",
+    "\n",
+    "- Programming Languages:C++, C#, JavaScript, PHP, Python  \n",
+    "- Web Technologies: HTML, CSS \n",
+    "- Databases: MySQL\n",
+    "\n",
+    "## Languages\n",
+    "\n",
+    "- Punjabi (Native)\n",
+    "- Urdu (Fluent)\n",
+    "- English (Fluent)\n",
+    "\n",
+    "\n",
+    "```python\n",
+    "\n",
+    "```"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
